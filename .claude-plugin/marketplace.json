@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agentic-skills",
+  "version": "1.0.0",
+  "description": "A collection of reusable AI agent skills following the Agent Skills format",
+  "owner": {
+    "name": "manzke",
+    "email": "contact@example.com"
+  },
+  "plugins": [
+    {
+      "name": "code-review",
+      "source": "./skills/code-review",
+      "description": "Performs comprehensive code reviews with security and quality checks",
+      "category": "development",
+      "version": "1.0.0",
+      "author": {
+        "name": "manzke"
+      }
+    }
+  ]
+}
