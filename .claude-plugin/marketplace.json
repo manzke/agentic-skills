@@ -17,6 +17,16 @@
       "author": {
         "name": "manzke"
       }
+    },
+    {
+      "name": "interview-to-blog",
+      "source": "./skills/interview-to-blog",
+      "description": "Produce deep, long-form blog posts (1,800–2,500+ words) by interviewing the user first, researching the topic, architecting the structure, then writing",
+      "category": "content",
+      "version": "1.0.0",
+      "author": {
+        "name": "IntraFind"
+      }
     }
   ]
 }

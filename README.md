@@ -83,6 +83,7 @@ This repository includes a `.claude-plugin/marketplace.json` file that enables C
 | Skill | Description | Tools |
 |-------|-------------|-------|
 | [code-review](skills/code-review/) | Performs comprehensive code reviews with security and quality checks | bash, git |
+| [interview-to-blog](skills/interview-to-blog/) | Produce deep, long-form blog posts by interviewing the user first, researching the topic, architecting the structure, then writing | web_search (optional) |
 
 ## Usage
 
