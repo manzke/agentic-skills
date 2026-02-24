@@ -10,7 +10,9 @@ description: >
   email drafts, or documentation — only for substantive blog-style content.
 license: Apache-2.0
 metadata:
-  author: IntraFind
+  author: Daniel Manzke
+  github: https://github.com/manzke
+  linkedin: https://www.linkedin.com/in/danielmanzke/
   version: "1.0"
 ---
 
